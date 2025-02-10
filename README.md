@@ -23,9 +23,11 @@ I’m Tianxiu Ma. And my English name is Tammie.
 ---
 
 ## 🚀 Skills
-- **Languages**: Python, JavaScript, Go, Node, etc.
-- **Frameworks**: React, React Native, Django, PyTorch, TensorFlow, etc.
-- **Tools**: Git, Docker, etc.
+ 
+
+- **Languages**: Python, Java, C++, JavaScript, TypeScript, Go, HTML5, CSS, SQL, MATLAB, etc.
+- **Frameworks**: React, Vue, React Native, Node (Node.js), Redux, jQuery, Highcharts, OpenCV, PyTorch, Pandas, TensorFlow, Machine Learning, etc.
+- **Tools**: Git, Docker, Kubernetes, CI/CD, Unit Testing, Junit, Webpack, ANTLR, AJAX, AWS, GCP, Azure, Cloud Computing, Microservices, Distributed Systems, Agile Development, OOP, NoSQL, etc.
 
 ---
 
