@@ -3,14 +3,14 @@
 I’m Tianxiu Ma. And my English name is Tammie.
 
 - 🌟 Professional Summary: 
-  I am a Software Engineer with 6 years of experience specializing in front-end development, including nearly three years in the Credit Card Department at Ping An Bank. I excel in building responsive UI components with React, developing and integrating RESTful APIs using Node.js, and optimizing server-side rendering (SSR) to improve SEO and application performance. My strong fintech background has enabled me to design and implement scalable solutions that enhance user experience and streamline operational workflows.
+  I am a Software Engineer with 6 years of experience working across different industries, including nearly three years in the Credit Card Department at Ping An Bank. I apply my strong theoretical knowledge to solve a variety of operational and technical problems. And I excel in building responsive UI components with React, developing and integrating RESTful APIs using Node.js, and optimizing server-side rendering (SSR) to improve SEO and application performance. My strong background has enabled me to design and implement scalable solutions that enhance user experience and streamline operational workflows. At the same time, I can adapt to new environments and quickly learn new skills required for the project. I am also able to communicate my ideas clearly and value strong working relationships and quality code.
 
 - 📖 Academic Background: 
   I recently graduated with distinction from the "Machine Learning for Visual Data Analytics" program at Queen Mary University of London. During my studies, I gained hands-on experience in NLP, computer vision, and machine learning, completing projects that applied these technologies to solve real-world problems. This experience deepened my technical expertise and strengthened my problem-solving skills, positioning me to contribute to innovative AI-driven solutions.
 
 - 🎯 Passion for Innovation: 
-  I am passionate about exploring cutting-edge technologies, particularly in computer science, artificial intelligence, and their intersection with art. This curiosity drives me to stay ahead of industry trends and continually expand my skill set.
-
+  I am passionate about exploring cutting-edge technologies and tackling new challenges, particularly in computer science, artificial intelligence, and their intersection with art. This curiosity drives me to stay ahead of industry trends and continually expand my skill set.
+  
 
 
 ---
